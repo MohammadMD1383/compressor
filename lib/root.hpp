@@ -1,0 +1,6 @@
+#ifndef COMPRESSOR_ROOT_HPP
+#define COMPRESSOR_ROOT_HPP
+
+void test();
+
+#endif //COMPRESSOR_ROOT_HPP
